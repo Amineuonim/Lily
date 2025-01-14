@@ -1,4 +1,4 @@
-# paskal-like-compiler
+# Lily ( a paskal like compiler )
 This is a prototype still in develepoment compiler
 
 To compile just type : 
