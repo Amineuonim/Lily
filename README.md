@@ -8,6 +8,7 @@ and to run (in linux) :
 ./Lily<Path/To/InputFile
 
 current State:
+syntax highlighting (done)
 Lexical analysis (Done)
 Syntax analysis (Done)
 
