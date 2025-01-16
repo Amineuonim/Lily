@@ -1,0 +1,26 @@
+program lilytest; 
+const {
+  abe = 5;
+  vak = n;
+  gfd = 3;
+  }
+var {
+  fo,do:integer;
+}
+
+// hi there!
+begin{
+  iuhd = d;
+    if (count < MAX) then {
+        sum = sum + count;
+    }else {
+        sum = sum - count;
+    }; 
+    repeter {
+        count = count + 1;
+        sum = sum + count;
+    } Jusqu'a (count >= MAX);
+
+}
+
+.

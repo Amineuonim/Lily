@@ -1,0 +1,25 @@
+{
+  "name": "lilypad",
+  "displayName": "Lilypad",
+  "description": "syntax highlight for lily",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Programming Languages"
+  ],
+  "contributes": {
+    "languages": [{
+      "id": "lily",
+      "aliases": ["Lily", "lily"],
+      "extensions": [".pad"],
+      "configuration": "./language-configuration.json"
+    }],
+    "grammars": [{
+      "language": "lily",
+      "scopeName": "source.pad",
+      "path": "./syntaxes/lily.tmLanguage.json"
+    }]
+  }
+}
